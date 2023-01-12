@@ -1,0 +1,1 @@
+import{a as r}from"./index-a7ad1c39.js";import{h as n}from"./moment-1a227b2b.js";const c=({time:e})=>{var t,o,s;const a=(s=(o=(t=n())==null?void 0:t.startOf("day"))==null?void 0:o.seconds(e))==null?void 0:s.format("H:mm:ss");return r("span",{className:"absolute bottom-2 right-2 bg-black py-1 px-2 text-white text-xs rounded-md",children:a})};export{c as V};
